@@ -1,0 +1,15 @@
+.data-container {
+  background-color: #1c1c2b;
+  width: 100%;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.heading {
+  color: #6c757d;
+  font-size: 20px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  margin-bottom: 10px;
+}

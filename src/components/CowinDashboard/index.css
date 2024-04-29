@@ -1,0 +1,53 @@
+.main-container {
+  background-color: #161625;
+  height: auto;
+  min-height: 100vh;
+  padding: 50px;
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.website-logo {
+  width: 40px;
+  margin-right: 10px;
+}
+
+.website-logo-heading {
+  color: #2cc6c6;
+  font-size: 20px;
+  font-weight: 500;
+  font-family: 'Roboto';
+}
+
+.main-heading {
+  color: #cbd5e1;
+  font-size: 25px;
+  font-weight: 500;
+  font-family: 'Roboto';
+}
+
+.dashboard-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: auto;
+  min-height: 65vh;
+}
+
+.failure-image {
+  width: 400px;
+  margin-bottom: 10px;
+}
+
+.failure-text {
+  color: #ffffff;
+  font-size: 25px;
+  font-weight: 500;
+  font-family: 'Bree Serif';
+  text-align: center;
+}
